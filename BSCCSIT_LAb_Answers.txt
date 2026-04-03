@@ -1,0 +1,7 @@
+#include <stdio.h> // Preprocessor directive to include standard I/O library
+
+int main() {
+    // printf() displays the string inside quotation marks
+    printf("Hello, World!\n");
+    return 0; // Indicates the program finished successfully
+}
